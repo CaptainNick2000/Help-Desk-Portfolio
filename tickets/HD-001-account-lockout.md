@@ -21,8 +21,8 @@ Cached old password on Outlook mobile after a password change.
 
 ## Resolution
 
-1. Unlocked the AD account
-2. Reset password and forced change at next logon
+1. Unlock the AD account
+2. Reset password and forced change at next logon so they choose there password
 3. Signed out and back in on Outlook mobile
 4. Confirmed Windows, Outlook, and Teams
 
