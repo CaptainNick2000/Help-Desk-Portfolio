@@ -14,8 +14,6 @@ Cannot log into PC or Outlook. Account is locked.
 - AD: account enabled, lockout status, last bad password time
 - Recent failed logons
 - Not an offboarding / inactive user
-<img width="1225" height="963" alt="image" src="https://github.com/user-attachments/assets/6d980598-fca6-48a4-9d03-145dc8273ab4" />
-<img width="1221" height="966" alt="image" src="https://github.com/user-attachments/assets/dacc4dd4-4ca4-46f9-956c-93d571728486" />
 
 
 
