@@ -15,8 +15,6 @@ Cannot log into PC or Outlook. Account is locked.
 - Recent failed logons
 - Not an offboarding / inactive user
 
-
-
 ## Root cause
 
 Cached old password on Outlook mobile after a password change.
