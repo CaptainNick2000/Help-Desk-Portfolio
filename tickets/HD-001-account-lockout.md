@@ -6,26 +6,26 @@
 
 ## User request
 
-Cannot log into PC or Outlook. Account is locked.
+Cannot log into the PC. Message says the account is locked.
 
 ## Checks
 
-- Confirmed identity
-- AD: account enabled, lockout status, last bad password time
-- Recent failed logons
-- Not an offboarding / inactive user
+- Confirmed who they are
+- Opened AD and checked enabled / locked
+- Asked if they just changed their password
+- Asked if phone or Outlook is still signed in
 
 ## Root cause
 
-Cached old password on Outlook mobile after a password change.
+Old password still saved on the phone. It kept failing and locked the account.
 
 ## Resolution
 
-1. Unlock the AD account
-2. Reset password and forced change at next logon so they choose there password
-3. Signed out and back in on Outlook mobile
-4. Confirmed Windows, Outlook, and Teams
+1. Unlocked the account in AD
+2. Reset the password if they needed a new one
+3. Told them to sign out of email on the phone and sign back in
+4. Watched them log into Windows
 
 ## Close notes
 
-After a reset, update the phone first. Lockouts after a password change are often cached mobile credentials, not a domain outage.
+If they just changed their password, check the phone before you assume AD is broken.
