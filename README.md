@@ -5,7 +5,7 @@ Sample first-line tickets. Each one shows intake, checks, root cause, fix, and a
 These are portfolio write-ups from help-desk work and a home lab. Not live customer data.
 
 **Nicholas Della Penna-Brown** · Melbourne, Australia  
-IT Help Desk / Service Desk · ITIL V4 · CompTIA A+ (in progress)
+IT Help Desk / Service Desk · ITIL V4
 
 ## Tickets
 
