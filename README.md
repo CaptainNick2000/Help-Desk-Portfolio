@@ -40,14 +40,14 @@ Each ticket follows the same path I use in a queue:
 
 | ID | Title | Area |
 |---|---|---|
-| [HD-001](tickets/HD-001-account-lockout.md) | Account lockout / AD password reset | Identity / Active Directory |
-| [HD-002](tickets/HD-002-outlook-cannot-send.md) | Outlook cannot send email | Microsoft 365 |
-| [HD-003](tickets/HD-003-vpn-connection-failure.md) | VPN connects then drops | Network / remote access |
-| [HD-004](tickets/HD-004-printer-offline.md) | Floor printer offline / stuck queue | Hardware / peripherals |
-| [HD-005](tickets/HD-005-new-starter-onboarding.md) | New starter onboarding | Service request / identity + endpoint |
-| [HD-006](tickets/HD-006-wifi-intermittent.md) | Wi-Fi drops on one laptop | Network / endpoint |
-| [HD-007](tickets/HD-007-intune-noncompliant.md) | Device not compliant in Intune | Endpoint / Intune |
-| [HD-008](tickets/HD-008-software-request-install.md) | Approved software install | Service request / software |
+| [HD-001](HD-001-account-lockout.md) | Account lockout / AD password reset | Identity / Active Directory |
+| [HD-002](HD-002-outlook-cannot-send.md) | Outlook cannot send email | Microsoft 365 |
+| [HD-003](HD-003-vpn-connection-failure.md) | VPN connects then drops | Network / remote access |
+| [HD-004](HD-004-printer-offline.md) | Floor printer offline / stuck queue | Hardware / peripherals |
+| [HD-005](HD-005-new-starter-onboarding.md) | New starter onboarding | Service request / identity + endpoint |
+| [HD-006](HD-006-wifi-intermittent.md) | Wi-Fi drops on one laptop | Network / endpoint |
+| [HD-007](HD-007-intune-noncompliant.md) | Device not compliant in Intune | Endpoint / Intune |
+| [HD-008](HD-008-software-request-install.md) | Approved software install | Service request / software |
 
 ---
 
